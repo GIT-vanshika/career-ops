@@ -1,4 +1,7 @@
 # Personal data (user fills these)
+.env
+.env.*
+!.env.example
 data/applications.md
 data/pipeline.md
 data/scan-history.tsv

@@ -61,6 +61,23 @@ Si el score final es >= 4.5, generar borrador de respuestas para el formulario d
 
 **Idioma**: Siempre en el idioma del JD (EN default). Aplicar `/tech-translate`.
 
+## Paso 4.5 — LinkedIn Outreach Pack
+
+For every role that is recommended for application, run the `contacto` workflow after generating the resume/PDF and draft answers.
+
+Output:
+- Add `## H) LinkedIn Outreach` to the report
+- Include likely hiring contacts found through WebSearch/search-engine queries
+- Include LinkedIn search links if exact profiles are not confidently found
+- Include 3 message drafts: connection request, follow-up after accept, and post-application note
+
+Rules:
+- Never send LinkedIn messages or connection requests automatically
+- Never invent names, titles, or profile URLs
+- Prefer recruiters, university/campus hiring contacts, hiring managers, and team leads
+- Keep the connection request under 300 characters
+- Use only real proof points from `cv.md` or `article-digest.md`
+
 ## Paso 5 — Actualizar Tracker
 Registrar en `data/applications.md` con todas las columnas incluyendo Report y PDF en ✅.
 

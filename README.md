@@ -106,6 +106,7 @@ claude   # Open Claude Code in this directory
 > **The system is designed to be customized by Claude itself.** Modes, archetypes, scoring weights, negotiation scripts -- just ask Claude to change them. It reads the same files it uses, so it knows exactly what to edit.
 
 See [docs/SETUP.md](docs/SETUP.md) for the full setup guide.
+See [docs/FEATURES.md](docs/FEATURES.md) for the full feature menu, commands, and unlock requirements.
 
 ## Usage
 
@@ -127,6 +128,13 @@ Career-ops is a single slash command with multiple modes:
 ```
 
 Or just paste a job URL or description directly -- career-ops auto-detects it and runs the full pipeline.
+
+Without Claude CLI, use the OpenAI API runner:
+
+```bash
+npm.cmd run openai:status
+npm.cmd run openai:pipeline -- --max=3
+```
 
 ## How It Works
 

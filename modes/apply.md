@@ -97,7 +97,9 @@ Notas:
 Si el candidato confirma que envió la aplicación:
 1. Actualizar estado en `applications.md` de "Evaluada" a "Aplicado"
 2. Actualizar Section G del report con las respuestas finales
-3. Sugerir siguiente paso: `/career-ops contacto` para LinkedIn outreach
+3. Ejecutar `contacto` para preparar LinkedIn outreach: hiring contacts/search links + connection request + follow-up + post-application note
+4. Guardar/actualizar Section H del report con el outreach pack
+5. Recordar que la candidata debe revisar y enviar cualquier mensaje manualmente
 
 ## Scroll handling
 

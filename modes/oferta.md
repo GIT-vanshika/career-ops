@@ -132,6 +132,9 @@ Guardar evaluación completa en `reports/{###}-{company-slug}-{YYYY-MM-DD}.md`.
 ## G) Draft Application Answers
 (solo si score >= 4.5 — borradores de respuestas para el formulario de aplicación)
 
+## H) LinkedIn Outreach
+(para roles recomendados para aplicar — contactos encontrados, search links, y mensajes listos para revisar)
+
 ---
 
 ## Keywords extraídas
